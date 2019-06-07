@@ -1,11 +1,10 @@
 ### GOOGLE DRIVE PYTHON CLIENT  TOOL 
 This is a personal tool I use to **upload**, **download** or even **search** for files on my google drive account
 
-###GETTING STARTED
-####Installation
-### Recommended Start
+### GETTING STARTED
 
-###USAGE
+
+### USAGE
 ```bash
 
 $ cd path/to/your/dev/folder
