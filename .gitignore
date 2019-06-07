@@ -1,0 +1,6 @@
+.credentials
+.databases
+.logs
+logs/*
+.vscode
+*secret*
